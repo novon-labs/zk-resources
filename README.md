@@ -1,6 +1,7 @@
 # zk-resources
 
-1. https://doc.dalek.rs/zkp/index.html
+## zkp
+1. https://doc.dalek.rs/zkp/index.html (a toolkit for Schnorr proofs)
 
-#zk-SNARKS
+## zk-SNARKS
 1. https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/
