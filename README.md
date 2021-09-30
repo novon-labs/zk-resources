@@ -2,6 +2,8 @@
 
 ## zkp
 1. https://doc.dalek.rs/zkp/index.html (a toolkit for Schnorr proofs)
+2. https://www.zeroknowledgeblog.com/index.php/blog
+3. https://hackmd.io/@_33nsoRFQwGYh2T1-T9lqQ/rJHYnQ3Z4?type=view
 
 ## Bulletproof implementation
 1. https://github.com/dalek-cryptography/bulletproofs
